@@ -17,7 +17,7 @@ The Owner reserves the right to change the offering and configuration of the Bot
 
 - **4-** Description of services
 
-It is the bot's website and serves as a tool for information services.
+- [INFO] - It is the bot's website and serves as a tool for information services.
 
 - **5-** Registration
 
@@ -29,4 +29,4 @@ The Owner reserves the right to suspend or terminate the Bot or any service at a
 Users shall indemnify Supplier from any claim or third party claim related to activities promoted by Bot or any violation of the Terms of Use and other policies contained therein, or any violation of any law or third party rights.
 
 
-[INFO]: <http://expressjs.com>
+[INFO]: <https://github.com/KamelotWalker/chizue-ToS/blob/main/INFO.md>
