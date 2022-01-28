@@ -17,7 +17,7 @@ The Owner reserves the right to change the offering and configuration of the Bot
 
 - **4-** Description of services
 
-- [INFO] - It is the bot's website and serves as a tool for information services.
+[INFO] - It is the bot's website and serves as a tool for information services.
 
 - **5-** Registration
 
