@@ -1,4 +1,4 @@
-| Commands | Usage |
-| ------ | ------ |
-| /partner | /partner partnerkanal -KANAL- |
-| /partner | /partner partnerlog -KANAL- |
+| Commands | Aliases | Usage |
+| ------ | ------ | ------ |
+| /help | /yardım | /help |
+| /davet | ------ | /davet |
