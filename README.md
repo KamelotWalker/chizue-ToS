@@ -1,1 +1,1 @@
-# chizue-ToS
+# Chizue Terms of Service
