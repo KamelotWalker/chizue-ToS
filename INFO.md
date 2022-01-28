@@ -1,4 +1,4 @@
-| Commands | Aliases | Usage |
-| ------ | ------ | ------ |
-| /help | /yardım | /help |
-| /davet | ------ | /davet |
+| Commands | Usage |
+| ------ |  ------ |
+| /help | /help |
+| /davet | /davet |
