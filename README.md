@@ -2,7 +2,7 @@
 
 - **1-** **Acceptance and availability of the General Conditions of Uses**
 
-The user declares that he has read and accepted these terms and conditions regarding this service: In any case, the General Terms of Use contained herein are mandatory and binding; Anyone who does not agree to these terms should refrain from using the Application and/or the services promoted by the Owner through it. These Terms of Use do not create any partnership, authorization, or employment relationship between the Owner and Users. These terms govern the use of this bot, which allows people accessing the bot and/or third-party collaborators to provide information about their products and services, facilitating their access.
+The user declares that he has read and accepted these terms and conditions regarding this service: In any case, the General Terms of Use contained herein are mandatory and binding; Anyone who does not agree to these terms should refrain from using the Application and/or the services promoted by the Owner through it. These Terms of Use do not create any partnership, authorization, or employment relationship between the Owner and Users. These terms govern the use of this Application, which allows people accessing the Application and/or third-party collaborators to provide information about their products and services, facilitating their access.
 
 - **2-** **Rules**
 
@@ -13,7 +13,7 @@ The terms of access to the Application will be governed by the law and the user'
 
 - **3-** **Modification of the General Conditions of Use**
 
-The Owner reserves the right to change the offering and configuration of the Application and these Terms of Use at any time. Therefore, the Advisor recommends the User to read them carefully when accessing the Bot. They always keep the General Terms of Use in a visible place, freely accessible for any query they wish to perform.
+The Owner reserves the right to change the offering and configuration of the Application and these Terms of Use at any time. Therefore, the Advisor recommends the User to read them carefully when accessing the Application. They always keep the General Terms of Use in a visible place, freely accessible for any query they wish to perform.
 
 - **4-** **Description of services**
 
