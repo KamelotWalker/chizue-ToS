@@ -25,7 +25,7 @@ To request **information data user is required, but registration is not necessar
 
 - **6-** **Termination**
 
-The Owner reserves the right to suspend or terminate the Bot or any service at any time and without notice, for technical reasons, or any other reason, so he may unilaterally change the terms of access, such as all or part of the content. Rights acquired at that time
+The Owner reserves the right to suspend or terminate the Application or any service at any time and without notice, for technical reasons, or any other reason, so he may unilaterally change the terms of access, such as all or part of the content. Rights acquired at that time
 Users shall indemnify Supplier from any claim or third party claim related to activities promoted by Bot or any violation of the Terms of Use and other policies contained therein, or any violation of any law or third party rights.
 
 
@@ -34,7 +34,7 @@ Users shall indemnify Supplier from any claim or third party claim related to ac
 
 # Chizue Privacy Policy
 
-- The contractor undertakes to comply with the rules on data protection of personal character and to respect the privacy of users.
+- The Application undertakes to comply with the rules on data protection of personal character and to respect the privacy of users.
 The aim is to provide the best service and we need to have certain data at our disposal.
 In accordance with the provisions of the Personal Data Protection Act (LOPD) of 13 December 15/1999 and the implementing regulations approved by Royal Decree 1720/2007 of 21 December, personal data provided via this website or electronic mail will be included in a file ownership Owner. They will exercise their right of access, rectification, cancellation, and objection by posting a copy of a document proving your identity to the following address: C / Sevilla nº 36, Local 23 11402 Jerez de la Frontera, Cadiz Indicates “Data Protection”. The Contractor acts accordingly.
 
